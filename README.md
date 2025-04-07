@@ -22,4 +22,15 @@ A simple todo application to help you stay organised and productive.
 
   ### Installation
 
+```
+npm istall
+
+npm i react-icons
+
+npm run dev
+```
+
+#### To run the server go to browser 
+
+http://localhost:5173
   
