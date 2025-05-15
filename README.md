@@ -10,7 +10,7 @@ A simple todo application to help you stay organised and productive.
 - Responsive and user freindly interface.
 - Data persistence using Local storage.
 
-##Tech stacks
+## Tech stacks
 - **Frontened:** Html, CSS, Javascript, React.
 - **Backened:**  Node.js.
 - **Database:** Local storage.
