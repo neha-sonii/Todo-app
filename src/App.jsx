@@ -7,7 +7,6 @@ import { RiDeleteBin6Fill } from "react-icons/ri";
 
 
 
-
 function App() {
   const [todo, settodo] = useState("")
   const [todos, settodos] = useState([])
